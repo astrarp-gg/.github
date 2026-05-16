@@ -4,7 +4,7 @@
 
 <br/>
 
-### A modern, FiveM framework built for performance, and flexibility.
+### A modern, FiveM server built for performance, and flexibility.
 
 <br/>
 
