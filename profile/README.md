@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://r2.fivemanage.com/TiCSfd5FZCWuiA1OZ1mpC/Astra_Banner_T2.png" alt="ASTRA Framework" width="100%" />
+<img src="https://r2.fivemanage.com/TiCSfd5FZCWuiA1OZ1mpC/Astra_Banner_Trans.png" alt="ASTRA Framework" width="100%" />
 
 <br/>
 
